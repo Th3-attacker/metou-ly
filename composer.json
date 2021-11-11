@@ -1,0 +1,19 @@
+{
+    "name": "mamadou-aly-sy/metou-ly",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mamadou Aly Sy",
+            "email": "sy.aly.mamadou@gmail.com"
+        }
+    ],
+    "require": {
+        "mamadou-aly-sy/database-connection": "^1.0",
+        "mamadou-aly-sy/router": "^2.0",
+        "jenssegers/blade": "^1.4"
+    }
+}
